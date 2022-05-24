@@ -5,7 +5,4 @@
 - 📫 How to reach me ...
 
 <!---
-Abubakaradamgaru/Abubakaradamgaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-This 
+Abubakaradamgaru/Abubakaradamgaru by name I from garu I'm very interested programming in my life 
